@@ -1,0 +1,736 @@
+{
+  "data": {
+    "民眾黨義工系統": [
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16456",
+        "lastName": "周",
+        "firstName": "奇霖",
+        "name":"報名活動紀錄",
+        "score": 35,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 80,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 80,
+        "actionDate": "2021-11-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 55,
+        "actionDate": "2021-11-03T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 90,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 90,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 200,
+        "actionDate": "2021-12-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 100,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 5,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 55,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "clay1727",
+        "lastName": "林",
+        "firstName": "偉杰",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 60,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-09T00:00:00.000+00:00"
+      },{
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cobra95522",
+        "lastName": "許",
+        "firstName": "子建",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      }
+    ],
+    "民眾黨APP": [
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 60,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16456",
+        "lastName": "周",
+        "firstName": "奇霖",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 55,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-03T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 90,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 92,
+        "actionDate": "2021-12-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 93,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 95,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 95,
+        "actionDate": "2021-12-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "clay1727",
+        "lastName": "林",
+        "firstName": "偉杰",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-09T00:00:00.000+00:00"
+      },{
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cobra95522",
+        "lastName": "許",
+        "firstName": "子建",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      }
+      ],
+    "民眾黨官網首頁":  [
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 87,
+        "actionDate": "2021-12-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 11,
+        "actionDate": "2021-12-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 20,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16456",
+        "lastName": "周",
+        "firstName": "奇霖",
+        "name":"報名活動紀錄",
+        "score": 5,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 1,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 5,
+        "actionDate": "2021-12-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 15,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-03T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 5,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 150,
+        "actionDate": "2021-11-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "clay1727",
+        "lastName": "林",
+        "firstName": "偉杰",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-09T00:00:00.000+00:00"
+      },{
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cobra95522",
+        "lastName": "許",
+        "firstName": "子建",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      }
+      ],
+    "民眾黨黨員系統": [
+       {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 73,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-12-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcv6670",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name":"登入紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 73,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zdfa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16456",
+        "lastName": "周",
+        "firstName": "奇霖",
+        "name":"報名活動紀錄",
+        "score": 173,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "ck7300168",
+        "lastName": "陸",
+        "firstName": "一麟",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 73,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-03T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "ckchenga",
+        "lastName": "鄭",
+        "firstName": "存塏",
+        "name":"完成活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 20,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "clark888",
+        "lastName": "林",
+        "firstName": "昭印",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-08T00:00:00.000+00:00"
+      },
+      {
+        "account": "clay1727",
+        "lastName": "林",
+        "firstName": "偉杰",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-12-09T00:00:00.000+00:00"
+      },{
+        "account": "cmy4596186",
+        "lastName": "陳",
+        "firstName": "旻佑",
+        "name":"訊息反饋紀錄",
+        "score": 85,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "cobra95522",
+        "lastName": "許",
+        "firstName": "子建",
+        "name":"報名活動紀錄",
+        "score": 85,
+        "actionDate": "2021-12-04T00:00:00.000+00:00"
+      }
+      ]
+  }
+}

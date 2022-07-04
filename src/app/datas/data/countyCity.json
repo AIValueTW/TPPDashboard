@@ -1,0 +1,209 @@
+{
+  "data": {
+    "台北市": [
+      {
+        "account": "zxcvb550",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name": "登入紀錄",
+        "score": 1,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "報名活動紀錄",
+        "score": 1,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "報名活動紀錄",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "訊息反饋紀錄",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      }
+    ],
+    "新北市": [
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "完成活動紀錄",
+        "score": 1,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "完成活動紀錄",
+        "score": 1,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+
+      {
+        "account": "zxcvb530",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name": "會員發送聊天訊息",
+        "score": 1,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      }
+    ],
+    " 桃園市": [
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "會員發送聊天訊息",
+        "score": 1,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "會員發送群聊訊息",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "會員發送群聊訊息",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "會員登入",
+        "score": 1,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "會員參與投票訊息",
+        "score": 1,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      }
+    ],
+    "台中市": [
+      {
+        "account": "zxcvb550",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name": "會員發送聊天訊息",
+        "score": 1,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "會員發送聊天訊息",
+        "score": 1,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "會員發送群聊訊息",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "會員發送群聊訊息",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      }
+    ],
+    "高雄市": [
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "會員登入",
+        "score": 1,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "會員參與投票訊息",
+        "score": 1,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxcvb550",
+        "lastName": "賴",
+        "firstName": "致成",
+        "name": "捐款",
+        "score": 1,
+        "actionDate": "2021-11-02T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "捐款",
+        "score": 1,
+        "actionDate": "2021-11-04T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "捐款",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      },
+      {
+        "account": "zxa16987",
+        "lastName": "趙",
+        "firstName": "培志",
+        "name": "捐款",
+        "score": 1,
+        "actionDate": "2021-11-06T00:00:00.000+00:00"
+      }
+    ],
+    "宜蘭縣": [
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "捐款",
+        "score": 1,
+        "actionDate": "2021-11-05T00:00:00.000+00:00"
+      },
+      {
+        "account": "0905596850aegmailcom",
+        "lastName": "丁",
+        "firstName": "兆年",
+        "name": "捐款",
+        "score": 1,
+        "actionDate": "2021-11-07T00:00:00.000+00:00"
+      }
+    ]
+  }
+}
