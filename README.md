@@ -16,8 +16,8 @@
 ## MySQL
 
 會員API - A環境
-api server:
-ip: 35.236.158.123
+api server: </br>
+ip: 35.236.158.123 </br>
 user:  aiv
 
 ## Google VM
