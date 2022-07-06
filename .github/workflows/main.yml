@@ -40,7 +40,7 @@ jobs:
         with:
           host: 34.81.36.170  
           USERNAME: aiv
-          PASSWORD: ${{ evn.password }}
+          PASSWORD: ${{ secrets.password }}
           script: | 
             cd /home/aiv
             rm -rf /nginx/website
