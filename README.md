@@ -15,15 +15,15 @@
 
 ## MySQL
 
-會員API - A環境
+會員API - A環境 </br>
 api server: </br>
 ip: 35.236.158.123 </br>
-user:  aiv
+user:  aiv </br>
 
 ## Google VM
 
-會員積分活躍系統
-IP: 新的34.81.36.170  
-(舊的35.194.136.138 )
-user: aiv 
+會員積分活躍系統 </br>
+IP: 新的34.81.36.170  </br>
+(舊的35.194.136.138 ) </br>
+user: aiv </br>
 
