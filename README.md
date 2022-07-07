@@ -1,6 +1,7 @@
 ## 專案全名
 
-民眾黨黨員管理平台與成就積分系統 (BI)
+民眾黨黨員管理平台與成就積分系統 (BI) </br>
+https://member-dashboard.tpp.org.tw/ </br>
 
 ## 對象
 
